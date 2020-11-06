@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qam-gP-oAH"; */
+"Qam-gP-oAH.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "con-00-y7C"; */
+"con-00-y7C.text" = "Bonjour";
+
+/* Class = "UISegmentedControl"; h9q-lX-EZR.segmentTitles[0] = "First"; ObjectID = "h9q-lX-EZR"; */
+"h9q-lX-EZR.segmentTitles[0]" = "Premier";
+
+/* Class = "UISegmentedControl"; h9q-lX-EZR.segmentTitles[1] = "Second"; ObjectID = "h9q-lX-EZR"; */
+"h9q-lX-EZR.segmentTitles[1]" = "Deuxième";
